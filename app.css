@@ -1,0 +1,24 @@
+h1{
+    color: rgba(0, 200,100, 0.8);
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+
+    border: 8px dashed purple;
+
+
+li{
+    color:green;
+}
+
+h4{
+    color: purple;
+    background: rgb(255, 100, 80)
+}
+
+body{
+    background: pink;
+    /* background: url(https://kawaiidrawings.com/wp-content/uploads/wood-grain-wavy-lines-cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
