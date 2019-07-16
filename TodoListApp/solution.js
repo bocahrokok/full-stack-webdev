@@ -23,7 +23,7 @@ function isUniform(arr){
 function sumArray(arr){
     var total = 0;
 
-    arr.array.forEach(function(element){
+    arr.forEach(function(element){
         total+= element;
     });
 
